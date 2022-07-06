@@ -3,10 +3,7 @@ if that character appears only once in the original string, or ")" if that chara
 Ignore capitalization when determining if a character is a duplicate.
 
 Examples:
-"din"      =>  "((("
-"recede"   =>  "()()()"
-"Success"  =>  ")())())"
-"(( @"     =>  "))((" 
+"din"      =>  "(((" /  "recede"   =>  "()()()" /  "Success"  =>  ")())())" /  "(( @"  =>  "))((" 
 
 Notes:
 Assertion messages may be unclear about what they display in some languages.
